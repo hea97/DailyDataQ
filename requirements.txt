@@ -1,6 +1,5 @@
-schedule
-requests
-beautifulsoup4
 smtplib
-email
+schedule
+beautifulsoup4
+requests
 python-dotenv
